@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-Simple HelloWorld program for Git demonstrationj purposes
+Simple HelloWorld program for Git demonstration purposes
